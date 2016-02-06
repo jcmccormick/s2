@@ -1,0 +1,423 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dr",
+				"driveLoggedIn"
+			],
+			[
+				"B",
+				"BasicDataService"
+			],
+			[
+				"retr",
+				"reterievalError"
+			],
+			[
+				"ret",
+				"reterievalError"
+			],
+			[
+				"re",
+				"reterievalError"
+			],
+			[
+				"get",
+				"getData"
+			],
+			[
+				"temp",
+				"templateUrl"
+			],
+			[
+				"set",
+				"setupClerkr"
+			],
+			[
+				"query",
+				"queryReport"
+			],
+			[
+				"new",
+				"newly_inserted_or_removed_value"
+			],
+			[
+				"local",
+				"localStorageService"
+			],
+			[
+				"sect",
+				"section_id"
+			],
+			[
+				"col",
+				"column_id"
+			],
+			[
+				"find",
+				"find_by_id"
+			],
+			[
+				"layo",
+				"layout-align"
+			],
+			[
+				"values",
+				"values_attributes"
+			],
+			[
+				"val",
+				"values_attributes"
+			],
+			[
+				"cust",
+				"cust_end"
+			],
+			[
+				"mdf",
+				"mdfwend"
+			],
+			[
+				"md-input-cont",
+				"md-input-container-parent"
+			],
+			[
+				"md-tab",
+				"md-tab	Angular Material - The md-tabs directive serves as the container for 1..n md-tab child directives to produces a Tabs components."
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Sub",
+				"SublimeLinter: Lint Current File"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 847.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/www/html/sessor/app/views/home/index.html.erb",
+		"/var/www/html/sessor/config/initializers/devise_token_auth.rb",
+		"/var/www/html/sessor/app/assets/javascripts/templates/main/index.html",
+		"/var/www/html/sessor/app/assets/javascripts/controllers/ReportsController.coffee",
+		"/var/www/html/sessor/app/assets/javascripts/controllers/StatisticsController.coffee",
+		"/var/www/html/sessor/app/assets/javascripts/services/TemplatesService.coffee",
+		"/var/www/html/sessor/app/assets/javascripts/directives/GoogleConnectDirective.coffee",
+		"/var/www/html/sessor/app/controllers/api/v1/templates_controller.rb",
+		"/var/www/html/sessor/app/controllers/concerns/sheeted.rb",
+		"/var/www/html/sessor/app/controllers/users/omniauth_callbacks_controller.rb",
+		"/var/www/html/sessor/app/controllers/api/v1/reports_controller.rb",
+		"/var/www/html/sessor/app/models/user.rb",
+		"/var/www/html/sessor/config/routes.rb",
+		"/var/www/html/sessor/app/controllers/users/registrations_controller.rb",
+		"/var/www/html/sessor/app/controllers/application_controller.rb",
+		"/var/www/html/sessor/app/assets/javascripts/factories/httpInterceptor.coffee",
+		"/var/www/html/sessor/app/assets/javascripts/factories/ClassFactory.coffee",
+		"/var/www/html/sessor/config/initializers/session_store.rb",
+		"/var/www/html/sessor/config/initializers/omniauth.rb",
+		"/home/joe/.rvm/gems/ruby-2.2.3/gems/rails-assets-ng-token-auth-0.0.28/app/assets/javascripts/ng-token-auth/ng-token-auth.js",
+		"/var/www/html/sessor/app/views/layouts/application.html.erb",
+		"/var/www/html/sessor/config/initializers/devise.rb",
+		"/var/www/html/sessor/lib/tasks/scheduler.rake",
+		"/home/joe/.rvm/gems/ruby-2.2.3/gems/devise_token_auth-0.1.37/app/controllers/devise_token_auth/omniauth_callbacks_controller.rb",
+		"/var/www/html/sessor/app/controllers/contacts_controller.rb",
+		"/home/joe/.rvm/gems/ruby-2.2.3/gems/devise_token_auth-0.1.36/app/controllers/devise_token_auth/omniauth_callbacks_controller.rb",
+		"/var/www/html/sessor/Gemfile",
+		"/var/www/html/sessor/config/schedule.rb",
+		"/var/www/html/sessor/app/controllers/users/sessions_controller.rb",
+		"/var/www/html/sessor/app/assets/javascripts/directives/pages/views/form/form.html",
+		"/var/www/html/sessor/app/assets/javascripts/directives/pages/DraggableOptionsDirective.coffee",
+		"/var/www/html/sessor/app/assets/javascripts/directives/pages/views/form/field_options.html",
+		"/var/www/html/sessor/app/assets/javascripts/templates/main/menu.html",
+		"/var/www/html/sessor/app/assets/javascripts/templates/templates/edit.html",
+		"/var/www/html/sessor/app/assets/javascripts/templates/reports/view.html",
+		"/var/www/html/sessor/app/assets/javascripts/templates/reports/edit.html",
+		"/var/www/html/sessor/app/assets/javascripts/templates/templates/view.html",
+		"/var/www/html/sessor/app/models/report.rb",
+		"/var/www/html/sessor/app/assets/javascripts/controllers/TemplatesController.coffee",
+		"/var/www/html/sessor/app/assets/javascripts/services/ReportsService.coffee",
+		"/var/www/html/sessor/app/views/api/v1/reports/show.json.jbuilder",
+		"/var/www/html/sessor/app/assets/javascripts/run.coffee",
+		"/var/www/html/sessor/app/assets/javascripts/config.coffee",
+		"/var/www/html/sessor/app/assets/javascripts/directives/main/NewsletterDirective.coffee",
+		"/var/www/html/sessor/app/assets/javascripts/controllers/UserController.coffee",
+		"/var/www/html/sessor/config/application.rb",
+		"/var/www/html/sessor/config/environments/production.rb",
+		"/var/www/html/sessor/app/assets/stylesheets/application.scss",
+		"/var/www/html/sessor/config/initializers/assets.rb",
+		"/var/www/html/sessor/app/assets/javascripts/app.coffee",
+		"/var/www/html/sessor/app/assets/javascripts/application.js",
+		"/var/www/html/sessor/app/models/field.rb",
+		"/var/www/html/sessor/config/application.yml",
+		"/var/www/html/sessor/app/assets/javascripts/directives/pages/TemplateFieldDirective.coffee",
+		"/var/www/html/sessor/config/initializers/filter_parameter_logging.rb",
+		"/var/www/html/sessor/.gitignore",
+		"/var/www/html/sessor/app/assets/javascripts/directives/pages/views/form/section_options.html",
+		"/var/www/html/sessor/app/assets/javascripts/directives/pages/views/form/field_add.html",
+		"/var/www/html/sessor/app/assets/javascripts/templates/reports/list.html",
+		"/var/www/html/sessor/app/assets/javascripts/templates/templates/list.html",
+		"/var/www/html/sessor/app/assets/javascripts/templates/statistics/show.html",
+		"/var/www/html/sessor/app/assets/javascripts/directives/main/UserMenuDirective.coffee",
+		"/home/joe/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/joe/.config/sublime-text-2/Packages/User/CoffeeScript.sublime-settings",
+		"/home/joe/.config/sublime-text-2/Packages/Better CoffeeScript/CoffeeScript.sublime-settings",
+		"/home/joe/.config/sublime-text-2/Packages/User/SublimeLinter.sublime-settings",
+		"/home/joe/.config/sublime-text-2/Packages/Emmet/Default (Linux).sublime-keymap",
+		"/var/www/html/sessor/app/assets/stylesheets/main.scss",
+		"/home/joe/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/joe/.config/sublime-text-2/Packages/Better CoffeeScript/Keymaps/Default (Linux).sublime-keymap",
+		"/var/www/html/raam103/app/assets/stylesheets/angular-material/angular-material.scss",
+		"/var/www/html/raam103/README.md",
+		"/home/joe/Documents/sessor.sublime-project",
+		"/srv/www/sessor/app/views/home/index.html.erb",
+		"/srv/www/sessor/app/assets/javascripts/templates/reports/list.html",
+		"/srv/www/sessor/app/assets/javascripts/templates/templates/edit.html",
+		"/srv/www/sessor/app/assets/javascripts/templates/templates/list.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/var/www/html/sessor/app",
+			"/var/www/html/sessor",
+			"/var/www/html/sessor/config",
+			"/var/www/html/sessor/app",
+			"/var/www/html/sessor",
+			"/var/www/html/sessor/app",
+			"/var/www/html/sessor/app/assets",
+			"/var/www/html/sessor/app/assets/javascripts",
+			"/var/www/html/sessor/app",
+			"/var/www/html/sessor",
+			"/var/www/html/sessor/app",
+			"/var/www/html/sessor/app/assets/javascripts/templates",
+			"/var/www/html/sessor",
+			"/var/www/html/sessor/app"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"clint",
+			"console.log",
+			") {",
+			"OmniauthCallbacks",
+			"$route",
+			"$auth",
+			"logged",
+			"window",
+			"$route",
+			"rejectDfd",
+			"handleLoginRes",
+			"handle",
+			"requestCre",
+			"createPop",
+			"open",
+			"var",
+			"$auth",
+			"fab-site",
+			"cl-field-add",
+			"save",
+			"template",
+			"vt",
+			"form",
+			"auth_headers",
+			"http",
+			"Reports",
+			"span",
+			"\"45\"",
+			"layout-padding",
+			"drafted",
+			"user",
+			"{{user",
+			"flex=",
+			"<p",
+			"p>",
+			"key",
+			"sort",
+			"clocation",
+			"top",
+			"goto",
+			"authenticate",
+			"twitter",
+			"bower",
+			"google",
+			"gt-",
+			"@include",
+			"force-hover",
+			"keyboardShortcut",
+			"md-display-1",
+			"flex-gt-sm=\"auto\"",
+			"h3",
+			"35",
+			"md-no-margin",
+			"no-margin",
+			"cl-",
+			"vt",
+			"md-raised",
+			"icon",
+			"no-checkbox-margin",
+			"view-frame",
+			"section-row",
+			"span>lalala</span",
+			"required",
+			"md-no-",
+			"field-add",
+			"flex",
+			"input-container-p",
+			"green",
+			".hint",
+			"  ",
+			"fieldForm",
+			"myForm",
+			"class=\"md-block\"",
+			"no-padding",
+			"keywords",
+			"md-no-padding",
+			"\n                            <md-menu>\n                            <!-- Trigger element is a md-button with an icon -->\n                                <md-button ng-click=\"$mdOpenMenu($event)\" class=\"md-icon-button\" aria-label=\"Open sample menu\">\n                                    <md-tooltip md-direction=\"top\">\n                                        {{template.name}} Menu\n                                    </md-tooltip>\n                                    <md-icon>more_vert</md-icon>\n                                </md-button>\n                                <md-menu-content width=\"4\">\n                                    <md-menu-item>\n                                        <md-switch ng-model=\"template.draft\" aria-label=\"draft or undraft {{template.name}}\" ng-change=\"vt.setDraft(template)\">\n                                            {{(!template.draft && 'Und') || 'D'}}rafted\n                                        </md-switch>\n                                    </md-menu-item>\n                                    <md-menu-item>\n                                        <md-button ng-click=\"vt.newReport(template, vt.tempForm)\" aria-label=\"new report with {{template.id}} {{template.name}}\">\n                                            <md-icon>description</md-icon> New Report\n                                        </md-button>\n                                    </md-menu-item>\n                                    <md-menu-item>\n                                        <md-button href=\"/templates/{{template.id}}\" aria-label=\"view {{template.id}} {{template.name}}\">\n                                            <md-icon>search</md-icon> View\n                                        </md-button>\n                                    </md-menu-item>\n                                    <md-menu-item>\n                                        <md-button href=\"/templates/{{template.id}}/edit\" aria-label=\"edit {{template.id}} {{template.name}}\">\n                                            <md-icon>create</md-icon> Edit\n                                        </md-button>\n                                    </md-menu-item>\n                                    <md-menu-item>\n                                        <md-button ng-click=\"vt.delete($event, template)\" class=\"md-warn\" ria-label=\"delete {{template.id}} {{template.name}}\">\n                                            <md-icon>delete</md-icon> Delete\n                                        </md-button>\n                                    </md-menu-item>\n                                </md-menu-content>\n                            </md-menu>\n                        ",
+			"	",
+			"of ",
+			"md-icon-button",
+			"\\0",
+			"white",
+			"md-content"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			">\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 88.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 335.0,
+	"status_bar_visible": true
+}
